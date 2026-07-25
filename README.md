@@ -101,12 +101,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👩‍💻 Author
 
 **Ankita Shendge**
