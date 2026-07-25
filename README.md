@@ -4,6 +4,7 @@
 ![AI](https://img.shields.io/badge/AI-LLM-blue)
 ![Automation](https://img.shields.io/badge/Automation-No--Code-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 An AI-powered chatbot built using **n8n Workflow Automation** that leverages a **Large Language Model (LLM)** to provide intelligent conversational responses.
 
