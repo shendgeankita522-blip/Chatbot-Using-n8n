@@ -52,10 +52,13 @@ AI-Chatbot-using-n8n/
     └── chatbot_output.png
     └── architecture_diagram.png
 ```
+---
+
 # 🏗️ Architecture Diagram
 
+https://github.com/shendgeankita522-blip/Chatbot-Using-n8n/blob/main/Images/Architectiure%20Diagram.png
 
-
+---
 
 ## 📷 Workflow
 
