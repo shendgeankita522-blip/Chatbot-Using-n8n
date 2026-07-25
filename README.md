@@ -1,5 +1,3 @@
-# Chatbot-Using-n8n
-
 # 🤖 AI Chatbot using n8n
 
 An AI-powered chatbot built using **n8n** that automates conversations through intelligent workflows. The chatbot processes user queries, generates AI-powered responses, and demonstrates how no-code/low-code automation can be used to build conversational AI solutions.
@@ -56,13 +54,13 @@ AI-Chatbot-using-n8n/
 
 ## 📷 Workflow
 
-![Chatbot Workflow](images/chatbot_workflow.png)
+https://github.com/shendgeankita522-blip/Chatbot-Using-n8n/blob/main/Images/Chatbot%20Workfolow.png
 
 ---
 
 ## 💬 Chatbot Output
 
-![Chatbot Output](images/chatbot_output.png)
+
 
 ---
 
