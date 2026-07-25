@@ -41,6 +41,8 @@ The project demonstrates workflow automation, AI integration, and chatbot develo
 AI-Chatbot-using-n8n/
 │
 ├── README.md
+|── prompts/
+│   └── system_prompt.txt
 │
 ├── workflow/
 │   └── chatbot_using_n8n.json
@@ -48,9 +50,12 @@ AI-Chatbot-using-n8n/
 └── images/
     ├── chatbot_workflow.png
     └── chatbot_output.png
+    └── architecture_diagram.png
 ```
+# 🏗️ Architecture Diagram
 
----
+
+
 
 ## 📷 Workflow
 
