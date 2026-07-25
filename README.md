@@ -1,5 +1,12 @@
 # 🤖 AI Chatbot using n8n
 
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-orange)
+![AI](https://img.shields.io/badge/AI-LLM-blue)
+![Automation](https://img.shields.io/badge/Automation-No--Code-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+An AI-powered chatbot built using **n8n Workflow Automation** that leverages a **Large Language Model (LLM)** to provide intelligent conversational responses.
+
 An AI-powered chatbot built using **n8n** that automates conversations through intelligent workflows. The chatbot processes user queries, generates AI-powered responses, and demonstrates how no-code/low-code automation can be used to build conversational AI solutions.
 
 ---
