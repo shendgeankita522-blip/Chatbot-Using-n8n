@@ -43,8 +43,6 @@ The project demonstrates workflow automation, AI integration, and chatbot develo
 AI-Chatbot-using-n8n/
 │
 ├── README.md
-├── LICENSE
-├── .gitignore
 │
 ├── workflow/
 │   └── chatbot_using_n8n.json
